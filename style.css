@@ -1,9 +1,3 @@
-@font-face {
-	font-family: "Hello";
-	src: url('./symbole.ttf');
-}
-
-
 #daddyv{
     border: solid;
     width: 25vw;
@@ -28,7 +22,7 @@
     height: 4vh;
     display: flex;
     justify-content: center;
-    font-size: 30px;
+    font-size: 1.5em;
     font-family: 'Courier New', Courier, monospace;
     position: absolute;
     top: 250px;
