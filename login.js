@@ -1,6 +1,6 @@
 function aled (){
-	let mail = $("#email");
-	let mdp = $("#password");
+	let mail = $("#pseudo");
+	let mdp = $("#mdp");
 	
 
 	$.ajax({

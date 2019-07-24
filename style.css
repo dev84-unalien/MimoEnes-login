@@ -65,6 +65,10 @@ body{
     align-items: center;
 }
 
+#co input {
+    text-align: center;
+}
+
 #co{
     display: flex;
     justify-content: center;
@@ -73,6 +77,7 @@ body{
     width: 10vw;
     padding-top: 50px;
     flex-direction: column;
+    
 }
 
 #register{
